@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #172a47;
+}
+
+.web{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.header{
+    background-image: url(../img/bg_top.png);
+    height: 73px;
+}
+
+.buscar{
+    width: 300px;
+}
+
+.busqueda{
+    position: relative;
+    float: right;
+    margin-right: 20px;
+    margin-top: 28px;
+}
+
+nav{
+    background-image: url(../img/bg_menu.png);
+    color: white;
+    font-size: 14px;
+    padding-left: 30px;
+}
+
+.fondo{
+    width: 700px;
+    height: 350px;
+    background-image: url(../img/final.jpg);
+}
+
+h1{
+    color: red;
+}
+
+.subtitulo{
+    font-weight: bolder;
+    color: white;
+}
+
+p{
+    color: white;
+}
+
+.fondo_margin{
+    width: 210px;
+}
+
+.noticias{
+    float: right;
+
+}
